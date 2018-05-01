@@ -20,3 +20,6 @@ project.properties
 # Windows junk
 Thumbs.db
 
+# NPM
+package-lock.json
+
